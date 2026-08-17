@@ -9,6 +9,10 @@ rather than price shape alone. It requires enough unique tracked participants,
 data coverage, position-aware notional, and directional agreement before
 entering, and can exit when consensus reverses or positions are reduced.
 
+## Logic at a glance
+
+![HyperliquidConsensus strategy logic](https://raw.githubusercontent.com/TradeJS-Dev/TradeJS-Strategy-HyperliquidConsensus/main/docs/strategy-logic.svg)
+
 ## Install
 
 ```bash
