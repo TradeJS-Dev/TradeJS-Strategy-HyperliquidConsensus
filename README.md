@@ -2,6 +2,13 @@
 
 TradeJS strategy plugin providing `HyperliquidConsensus`.
 
+## Strategy overview
+
+`HyperliquidConsensus` uses normalized Hyperliquid whale-position context
+rather than price shape alone. It requires enough unique tracked participants,
+data coverage, position-aware notional, and directional agreement before
+entering, and can exit when consensus reverses or positions are reduced.
+
 ## Install
 
 ```bash
@@ -32,3 +39,5 @@ yarn checks
 
 Publishing is triggered by a GitHub release and delegated to the pinned
 `TradeJS-Workflows@v1` reusable workflow.
+
+Keywords: ai, claude, codex.

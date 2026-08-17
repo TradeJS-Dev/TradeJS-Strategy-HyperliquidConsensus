@@ -1,7 +1,7 @@
 {
   "name": "@tradejs/strategy-hyperliquid-consensus",
   "version": "3.0.0",
-  "description": "HyperliquidConsensus strategy plugin for TradeJS.",
+  "description": "Hyperliquid whale-consensus strategy using participant coverage, directional notional, and position-change context for TradeJS.",
   "type": "module",
   "packageManager": "yarn@4.13.0",
   "engines": {
@@ -12,7 +12,10 @@
     "trading",
     "strategy",
     "plugin",
-    "backtesting"
+    "backtesting",
+    "ai",
+    "claude",
+    "codex"
   ],
   "homepage": "https://tradejs.dev",
   "repository": {
