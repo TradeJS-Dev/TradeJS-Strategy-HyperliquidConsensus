@@ -1,0 +1,139 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 560" role="img" aria-labelledby="title description">
+<title id="title">HyperliquidConsensus signal on an illustrative ticker chart</title>
+<desc id="description">Whale-position evidence reaches directional consensus. The chart is schematic and does not represent live market data.</desc>
+<defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1"><stop offset="0%" stop-color="#08111f"/><stop offset="100%" stop-color="#111b32"/></linearGradient>
+    <linearGradient id="plot" x1="0" y1="0" x2="0" y2="1"><stop offset="0%" stop-color="#101b30"/><stop offset="100%" stop-color="#0b1426"/></linearGradient>
+    <filter id="shadow" x="-20%" y="-20%" width="140%" height="150%"><feDropShadow dx="0" dy="7" stdDeviation="9" flood-color="#020617" flood-opacity="0.42"/></filter>
+    <style>
+      .title{fill:#f8fafc;font:700 28px Inter,ui-sans-serif,system-ui,sans-serif}.subtitle{fill:#94a3b8;font:400 15px Inter,ui-sans-serif,system-ui,sans-serif}.brand{fill:#475569;font:600 13px Inter,ui-sans-serif,system-ui,sans-serif;letter-spacing:.08em}.panel{fill:url(#plot);stroke:#26364f;stroke-width:1.5;filter:url(#shadow)}.grid{stroke:#20304a;stroke-width:1}.axis{fill:#64748b;font:600 10px Inter,ui-sans-serif,system-ui,sans-serif;letter-spacing:.08em}.overlay-label{fill:#cbd5e1;font:600 11px Inter,ui-sans-serif,system-ui,sans-serif}.annotation{fill:#e2e8f0;font:600 11px Inter,ui-sans-serif,system-ui,sans-serif}.condition-title{fill:#64748b;font:700 11px Inter,ui-sans-serif,system-ui,sans-serif;letter-spacing:.09em}.condition-number{fill:#08111f;font:800 12px Inter,ui-sans-serif,system-ui,sans-serif}.condition-copy{fill:#e2e8f0;font:500 13px Inter,ui-sans-serif,system-ui,sans-serif}.footer{fill:#94a3b8;font:500 12px Inter,ui-sans-serif,system-ui,sans-serif}.signal{fill:#08111f;font:800 11px Inter,ui-sans-serif,system-ui,sans-serif;letter-spacing:.03em}.risk{font:700 10px Inter,ui-sans-serif,system-ui,sans-serif;letter-spacing:.06em}
+    </style>
+  </defs>
+<rect width="1200" height="560" rx="24" fill="url(#background)"/>
+<text x="32" y="45" class="title">HyperliquidConsensus</text>
+<text x="32" y="72" class="subtitle">Whale-position evidence reaches directional consensus</text>
+<text x="1168" y="45" text-anchor="end" class="brand">TRADEJS</text>
+<rect x="32" y="104" width="790" height="416" rx="18" class="panel"/>
+<rect x="842" y="104" width="326" height="416" rx="18" class="panel"/>
+<text x="58" y="134" class="axis">ILLUSTRATIVE TICKER</text>
+<text x="796" y="134" text-anchor="end" class="axis">SCHEMATIC • NOT LIVE DATA</text>
+<line x1="58" y1="162.0" x2="796" y2="162.0" class="grid"/>
+<line x1="58" y1="212.8" x2="796" y2="212.8" class="grid"/>
+<line x1="58" y1="263.5" x2="796" y2="263.5" class="grid"/>
+<line x1="58" y1="314.3" x2="796" y2="314.3" class="grid"/>
+<line x1="58" y1="365.0" x2="796" y2="365.0" class="grid"/>
+<line x1="58.0" y1="162" x2="58.0" y2="365" class="grid"/>
+<line x1="205.6" y1="162" x2="205.6" y2="365" class="grid"/>
+<line x1="353.2" y1="162" x2="353.2" y2="365" class="grid"/>
+<line x1="500.8" y1="162" x2="500.8" y2="365" class="grid"/>
+<line x1="648.4" y1="162" x2="648.4" y2="365" class="grid"/>
+<line x1="796.0" y1="162" x2="796.0" y2="365" class="grid"/>
+<line x1="58.0" y1="321.9" x2="58.0" y2="338.7" stroke="#34d399" stroke-width="1.5"/>
+<rect x="51.5" y="326.9" width="13.0" height="5.1" rx="2" fill="#34d399"/>
+<line x1="87.5" y1="313.9" x2="87.5" y2="331.1" stroke="#34d399" stroke-width="1.5"/>
+<rect x="81.0" y="320.6" width="13.0" height="2.5" rx="2" fill="#34d399"/>
+<line x1="117.0" y1="313.4" x2="117.0" y2="332.0" stroke="#f87171" stroke-width="1.5"/>
+<rect x="110.5" y="321.6" width="13.0" height="5.3" rx="2" fill="#f87171"/>
+<line x1="146.6" y1="309.2" x2="146.6" y2="337.4" stroke="#34d399" stroke-width="1.5"/>
+<rect x="140.1" y="314.3" width="13.0" height="16.5" rx="2" fill="#34d399"/>
+<line x1="176.1" y1="305.6" x2="176.1" y2="328.8" stroke="#f87171" stroke-width="1.5"/>
+<rect x="169.6" y="312.2" width="13.0" height="8.4" rx="2" fill="#f87171"/>
+<line x1="205.6" y1="299.7" x2="205.6" y2="322.4" stroke="#34d399" stroke-width="1.5"/>
+<rect x="199.1" y="307.9" width="13.0" height="9.4" rx="2" fill="#34d399"/>
+<line x1="235.1" y1="305.7" x2="235.1" y2="320.9" stroke="#f87171" stroke-width="1.5"/>
+<rect x="228.6" y="310.8" width="13.0" height="3.5" rx="2" fill="#f87171"/>
+<line x1="264.6" y1="294.9" x2="264.6" y2="325.0" stroke="#34d399" stroke-width="1.5"/>
+<rect x="258.1" y="301.6" width="13.0" height="15.2" rx="2" fill="#34d399"/>
+<line x1="294.2" y1="289.8" x2="294.2" y2="313.0" stroke="#f87171" stroke-width="1.5"/>
+<rect x="287.7" y="298.0" width="13.0" height="9.9" rx="2" fill="#f87171"/>
+<line x1="323.7" y1="290.1" x2="323.7" y2="312.9" stroke="#34d399" stroke-width="1.5"/>
+<rect x="317.2" y="295.2" width="13.0" height="11.1" rx="2" fill="#34d399"/>
+<line x1="353.2" y1="292.5" x2="353.2" y2="309.8" stroke="#f87171" stroke-width="1.5"/>
+<rect x="346.7" y="299.2" width="13.0" height="2.5" rx="2" fill="#f87171"/>
+<line x1="382.7" y1="280.6" x2="382.7" y2="307.3" stroke="#34d399" stroke-width="1.5"/>
+<rect x="376.2" y="288.9" width="13.0" height="13.3" rx="2" fill="#34d399"/>
+<line x1="412.2" y1="279.7" x2="412.2" y2="301.9" stroke="#f87171" stroke-width="1.5"/>
+<rect x="405.7" y="284.8" width="13.0" height="10.5" rx="2" fill="#f87171"/>
+<line x1="441.8" y1="275.9" x2="441.8" y2="303.9" stroke="#34d399" stroke-width="1.5"/>
+<rect x="435.3" y="282.5" width="13.0" height="13.1" rx="2" fill="#34d399"/>
+<line x1="471.3" y1="278.3" x2="471.3" y2="293.9" stroke="#f87171" stroke-width="1.5"/>
+<rect x="464.8" y="286.5" width="13.0" height="2.5" rx="2" fill="#f87171"/>
+<line x1="500.8" y1="271.1" x2="500.8" y2="294.1" stroke="#34d399" stroke-width="1.5"/>
+<rect x="494.3" y="276.2" width="13.0" height="11.2" rx="2" fill="#34d399"/>
+<line x1="530.3" y1="263.2" x2="530.3" y2="280.8" stroke="#34d399" stroke-width="1.5"/>
+<rect x="523.8" y="269.8" width="13.0" height="2.7" rx="2" fill="#34d399"/>
+<line x1="559.8" y1="264.0" x2="559.8" y2="281.3" stroke="#f87171" stroke-width="1.5"/>
+<rect x="553.3" y="272.3" width="13.0" height="3.9" rx="2" fill="#f87171"/>
+<line x1="589.4" y1="258.4" x2="589.4" y2="285.9" stroke="#34d399" stroke-width="1.5"/>
+<rect x="582.9" y="263.5" width="13.0" height="15.7" rx="2" fill="#34d399"/>
+<line x1="618.9" y1="244.2" x2="618.9" y2="268.6" stroke="#34d399" stroke-width="1.5"/>
+<rect x="612.4" y="250.8" width="13.0" height="9.5" rx="2" fill="#34d399"/>
+<line x1="648.4" y1="236.2" x2="648.4" y2="253.7" stroke="#34d399" stroke-width="1.5"/>
+<rect x="641.9" y="244.5" width="13.0" height="4.2" rx="2" fill="#34d399"/>
+<line x1="677.9" y1="226.7" x2="677.9" y2="254.9" stroke="#34d399" stroke-width="1.5"/>
+<rect x="671.4" y="231.8" width="13.0" height="16.4" rx="2" fill="#34d399"/>
+<line x1="707.4" y1="218.8" x2="707.4" y2="241.2" stroke="#34d399" stroke-width="1.5"/>
+<rect x="700.9" y="225.4" width="13.0" height="7.6" rx="2" fill="#34d399"/>
+<line x1="737.0" y1="204.5" x2="737.0" y2="226.4" stroke="#34d399" stroke-width="1.5"/>
+<rect x="730.5" y="212.8" width="13.0" height="8.6" rx="2" fill="#34d399"/>
+<line x1="766.5" y1="195.0" x2="766.5" y2="219.2" stroke="#34d399" stroke-width="1.5"/>
+<rect x="760.0" y="200.1" width="13.0" height="12.5" rx="2" fill="#34d399"/>
+<line x1="796.0" y1="187.1" x2="796.0" y2="212.4" stroke="#34d399" stroke-width="1.5"/>
+<rect x="789.5" y="193.7" width="13.0" height="10.5" rx="2" fill="#34d399"/>
+<line x1="58" y1="386" x2="796" y2="386" class="grid"/>
+<text x="58" y="399" class="axis">LONG NOTIONAL CONSENSUS</text>
+<line x1="58" y1="435.0" x2="796" y2="435.0" stroke="#94a3b8" stroke-width="1.5" stroke-dasharray="5 5"/>
+<text x="796" y="430.0" text-anchor="end" class="axis">THRESHOLD</text>
+<rect x="51.5" y="474.1" width="13.0" height="11.9" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="81.0" y="470.7" width="13.0" height="15.3" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="110.5" y="472.4" width="13.0" height="13.6" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="140.1" y="467.3" width="13.0" height="18.7" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="169.6" y="469.0" width="13.0" height="17.0" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="199.1" y="463.9" width="13.0" height="22.1" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="228.6" y="465.6" width="13.0" height="20.4" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="258.1" y="462.2" width="13.0" height="23.8" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="287.7" y="460.5" width="13.0" height="25.5" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="317.2" y="458.8" width="13.0" height="27.2" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="346.7" y="460.5" width="13.0" height="25.5" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="376.2" y="457.1" width="13.0" height="28.9" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="405.7" y="455.4" width="13.0" height="30.6" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="435.3" y="452.0" width="13.0" height="34.0" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="464.8" y="450.3" width="13.0" height="35.7" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="494.3" y="446.9" width="13.0" height="39.1" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="523.8" y="443.5" width="13.0" height="42.5" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="553.3" y="440.1" width="13.0" height="45.9" rx="2" fill="#34d399" fill-opacity=".5"/>
+<rect x="582.9" y="435.0" width="13.0" height="51.0" rx="2" fill="#34d399" fill-opacity=".9"/>
+<rect x="612.4" y="429.9" width="13.0" height="56.1" rx="2" fill="#34d399" fill-opacity=".9"/>
+<rect x="641.9" y="426.5" width="13.0" height="59.5" rx="2" fill="#34d399" fill-opacity=".9"/>
+<rect x="671.4" y="423.1" width="13.0" height="62.9" rx="2" fill="#34d399" fill-opacity=".9"/>
+<rect x="700.9" y="419.7" width="13.0" height="66.3" rx="2" fill="#34d399" fill-opacity=".9"/>
+<rect x="730.5" y="416.3" width="13.0" height="69.7" rx="2" fill="#34d399" fill-opacity=".9"/>
+<rect x="760.0" y="414.6" width="13.0" height="71.4" rx="2" fill="#34d399" fill-opacity=".9"/>
+<rect x="789.5" y="411.2" width="13.0" height="74.8" rx="2" fill="#34d399" fill-opacity=".9"/>
+<line x1="618.9" y1="162" x2="618.9" y2="365" stroke="#34d399" stroke-width="1.5" stroke-dasharray="4 5" stroke-opacity=".75"/>
+<polygon points="611.88,293.8125 625.88,293.8125 618.88,282.8125" fill="#34d399"/>
+<rect x="560.0" y="299.8" width="117.8" height="23" rx="11.5" fill="#34d399"/>
+<text x="618.9" y="315.3" text-anchor="middle" class="signal">Consensus LONG</text>
+<line x1="636.9" y1="174.7" x2="796" y2="174.7" stroke="#34d399" stroke-width="1.5" stroke-dasharray="5 5"/>
+<text x="791.0" y="169.7" text-anchor="end" class="risk" fill="#34d399">TARGET</text>
+<line x1="636.9" y1="282.5" x2="796" y2="282.5" stroke="#f87171" stroke-width="1.5" stroke-dasharray="5 5"/>
+<text x="791.0" y="277.5" text-anchor="end" class="risk" fill="#f87171">INVALIDATION</text>
+<text x="866" y="136" class="condition-title">WHAT THE STRATEGY SEES</text>
+<rect x="862" y="158" width="286" height="69" rx="13" fill="#111c31" stroke="#26364f"/>
+<circle cx="884" cy="180" r="13" fill="#22d3ee"/>
+<text x="884" y="184" text-anchor="middle" class="condition-number">1</text>
+<text x="905" y="179" class="condition-copy"><tspan x="905" dy="0">Snapshot freshness and</tspan><tspan x="905" dy="18">coverage pass</tspan></text>
+<rect x="862" y="241" width="286" height="69" rx="13" fill="#111c31" stroke="#26364f"/>
+<circle cx="884" cy="263" r="13" fill="#60a5fa"/>
+<text x="884" y="267" text-anchor="middle" class="condition-number">2</text>
+<text x="905" y="262" class="condition-copy"><tspan x="905" dy="0">Enough unique whales are</tspan><tspan x="905" dy="18">represented</tspan></text>
+<rect x="862" y="324" width="286" height="69" rx="13" fill="#111c31" stroke="#26364f"/>
+<circle cx="884" cy="346" r="13" fill="#f59e0b"/>
+<text x="884" y="350" text-anchor="middle" class="condition-number">3</text>
+<text x="905" y="345" class="condition-copy"><tspan x="905" dy="0">Long position-aware notional</tspan><tspan x="905" dy="18">clears threshold</tspan></text>
+<rect x="862" y="407" width="286" height="69" rx="13" fill="#111c31" stroke="#26364f"/>
+<circle cx="884" cy="429" r="13" fill="#34d399"/>
+<text x="884" y="433" text-anchor="middle" class="condition-number">4</text>
+<text x="905" y="428" class="condition-copy"><tspan x="905" dy="0">Cooldown and current-position</tspan><tspan x="905" dy="18">checks pass</tspan></text>
+<text x="32" y="545" class="footer">LONG EXAMPLE • MIRRORED RULES CAN PRODUCE THE OPPOSITE SIDE • EXACT THRESHOLDS ARE CONFIGURABLE</text>
+</svg>

@@ -13,6 +13,15 @@ entering, and can exit when consensus reverses or positions are reduced.
 
 ![HyperliquidConsensus strategy logic](https://raw.githubusercontent.com/TradeJS-Dev/TradeJS-Strategy-HyperliquidConsensus/main/docs/strategy-logic.svg)
 
+## Signal on an example chart
+
+Here the ticker is context rather than a chart pattern: the signal appears when fresh, sufficiently broad whale-position evidence clears the long-consensus threshold.
+
+![HyperliquidConsensus signal on an illustrative ticker chart](https://raw.githubusercontent.com/TradeJS-Dev/TradeJS-Strategy-HyperliquidConsensus/main/docs/signal-example.svg)
+
+The illustration is schematic, not market data. Exact thresholds, confirmation
+rules, and risk parameters come from the active TradeJS strategy config.
+
 ## Install
 
 ```bash
