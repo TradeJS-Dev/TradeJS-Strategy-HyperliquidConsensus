@@ -1,6 +1,6 @@
 {
   "name": "@tradejs/strategy-hyperliquid-consensus",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "description": "Hyperliquid whale-consensus strategy using participant coverage, directional notional, and position-change context for TradeJS.",
   "type": "module",
   "packageManager": "yarn@4.13.0",
